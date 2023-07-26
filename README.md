@@ -33,17 +33,12 @@
 
 <br>
 
+<h3 align="center">Most Used Languages:</h3>
+
 <div align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidpineda02&show_icons=true&locale=en&layout=compact" alt="davidpineda02" /></p>
 </div>
 
-<div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidpineda02&show_icons=true&locale=en" alt="davidpineda02" /></p>
-</div>
-
-<div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidpineda02&" alt="davidpineda02" /></p>
-</div>
 
 <br>
 

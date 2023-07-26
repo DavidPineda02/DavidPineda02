@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yedher David Pineda</h1>
-<h3 align="center">A passionate fullstack developer from Colombia 🇨🇴</h3>
+<h3 align="center"> A passionate fullstack developer from Colombia </h3>
+<p align="center"> 🔭 I’m currently Studing on <b>Campuslands</b> 🔭 </p>
+<p align="center"> 🌱 I’m currently learning <b>English</b> 🌱 </p>
+<p align="center"> ⚡ <b><i>"Excellence is not an act, it is a habit"</i></b> ⚡ </p>
 
 <div align="center">
   <a href="#"><img src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif" alt="dino-run-ending" border="0" ></a>
@@ -23,4 +26,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidpineda02&show_icons=true&locale=en" alt="davidpineda02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidpineda02&" alt="davidpineda02" /></p>
+
+<h2 align="center">GitHub Stats:</h2>
+
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=davidpineda02&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=kevin2606&theme=react"/>
+  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=davidpineda02&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+</div>
+<a align="center" href="https://github.com/davidpineda02/github-stats"></a>
 

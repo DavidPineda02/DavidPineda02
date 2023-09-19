@@ -1,52 +1,77 @@
-<h1 align="center">Hi 👋, I'm Yedher David Pineda</h1>
-<h3 align="center"> A passionate fullstack developer from Colombia </h3>
+<h1 align="center">👋 Hi There, I'm Yedher David Pineda!</h1>
+<h3 align="center">🚀 A Passionate Developer Junior From Colombia 🇨🇴</h3>
 
 <br>
 
-<p align="center"> 🔭 I’m currently Studing on <b>Campuslands</b> 🔭 </p>
+<p align="center"> 🔭 I’m currently Studing on <b>CampusLands</b> 🔭 </p>
 <p align="center"> 🌱 I’m currently learning <b>English</b> 🌱 </p>
 <p align="center"> ⚡ <b><i>"Excellence is not an act, it is a habit"</i></b> ⚡ </p>
 
 <br>
 
 <div align="center">
-  <a href="#"><img src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif" alt="dino-run-ending" border="0" ></a>
+  <a href="#"><img src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif" alt="dino-run-ending" border="0"></a>
 </div>
 
-<br>
-<br>
+<h2></h2>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidpineda02" alt="davidpineda02" /></a> </p>
+<h3 align="center">🌐 Connect with me:</h3>
 
-<h3 align="center">Connect with me:</h3>
-
-<p align="center">
-<a href="https://linkedin.com/in/david pineda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david pineda" height="30" width="40" /></a>
-<a href="https://discord.gg/3439" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3439" height="30" width="40" /></a>
-</p>
-
-<br>
-
-<h3 align="center">Languages and Tools:</h3>
-
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<br>
-
-<h3 align="center">Most Used Languages:</h3>
-
-<div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidpineda02&show_icons=true&locale=en&layout=compact" alt="davidpineda02" /></p>
+<div align="center" style="display: flex; align-items: center; justify-content: center; height: 13vh;">
+    <a href="https://discord.com/channels/@davxpa" style="display: inline-block; margin-right: 20px;" target="blank">
+        <img align="center" src="https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=Discord&logoColor=white" height="30" alt="davxpa"/>
+    </a>
+    <a href="https://www.linkedin.com/in/david-02-pineda/" style="display: inline-block; margin-right: 20px;" target="blank">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:tucorreo@gmail.com" style="display: inline-block; margin-right: 20px;" target="blank">
+        <img align="center" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
 </div>
 
+<h2></h2>
 
-<br>
+<h3 align="center">💻 Languages and Tools:</h3>
 
-<h2 align="center">GitHub Stats:</h2>
+<div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 30vh;">
 
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=davidpineda02&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=kevin2606&theme=react"/>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+</div>
+
+<h2></h2>
+
+<h3 align="center">📊 Most Used Languages:</h3>
+
+<div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 38vh;">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidpineda02&show_icons=true&locale=en&layout=compact&bg_color=0D1117&text_color=c9d1d9&border_color=30363d" alt="davidpineda02" /></p>
+</div>
+
+<h2></h2>
+
+<h3 align="center">📈 GitHub Stats:</h3>
+
+<div align="center" style="align-items: center; justify-content: center; height: 50vh;">
+  <br>
+  <img width="425" src="https://streak-stats.demolab.com/?user=kevin2606&theme=react&background=0D1117&ring=c9d1d9&fire=c9d1d9&border=30363d"/>
   <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=davidpineda02&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 </div>
-<a align="center" href="https://github.com/davidpineda02/github-stats"></a>
 

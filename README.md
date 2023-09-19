@@ -24,7 +24,7 @@
     <a href="https://www.linkedin.com/in/david-02-pineda/" style="display: inline-block; margin-right: 20px;" target="blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="mailto:tucorreo@gmail.com" style="display: inline-block; margin-right: 20px;" target="blank">
+    <a href="daxpa.02@gmail.com" style="display: inline-block; margin-right: 20px;" target="blank">
         <img align="center" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 </div>

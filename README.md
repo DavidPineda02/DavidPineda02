@@ -78,7 +78,7 @@
 
 <div align="center" style="align-items: center; justify-content: center; height: 50vh;">
   <br>
-  <img width="425" src="https://streak-stats.demolab.com/?user=kevin2606&theme=react&background=0D1117&ring=c9d1d9&fire=c9d1d9&border=30363d"/>
+  <img width="425" src="https://streak-stats.demolab.com/?username=davidpineda02&theme=react&background=0D1117&ring=c9d1d9&fire=c9d1d9&border=30363d"/>
   <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=davidpineda02&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 </div>
 

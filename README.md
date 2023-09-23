@@ -78,7 +78,8 @@
 
 <div align="center" style="align-items: center; justify-content: center; height: 50vh;">
   <br>
-  <img width="425" src="https://streak-stats.demolab.com/?username=davidpineda02&theme=react&background=0D1117&ring=c9d1d9&fire=c9d1d9&border=30363d"/>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=DavidPineda02&theme=react&border_radius=20&card_width=500)](https://git.io/streak-stats)
   <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=davidpineda02&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 </div>
 

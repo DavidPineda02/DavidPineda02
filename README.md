@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="center"> 🔭 I’m currently Studing on <b>CampusLands</b> 🔭 </p>
+<p align="center"> 🔭 I’m currently Studing on <b>Sena</b> 🔭 </p>
 <p align="center"> 🌱 I’m currently learning <b>English</b> 🌱 </p>
 <p align="center"> ⚡ <b><i>"Excellence is not an act, it is a habit"</i></b> ⚡ </p>
 
